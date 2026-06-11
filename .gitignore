@@ -1,0 +1,10 @@
+# Files
+*.pyc
+*.env
+*.log
+*.csv
+*.pkl
+
+# Folders
+__pycache__/
+venv/
